@@ -14,7 +14,7 @@
 
 ## What is Spark?
 
-Rare is an Ethereum L2 setup for experiments and tests.
+Spark is an Ethereum L2 setup for experiments and tests.
 
 ## Documentation
 
