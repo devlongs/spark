@@ -3,7 +3,7 @@
   <br />
   <a href="#"><img alt="Optimism" src="https://miro.medium.com/v2/resize:fit:807/1*dvzoU5m2SpzvhcSsj7iJ1g.png" width=600></a>
   <br />
-  <h3><a href="https://optimism.io">Rare</a> is an Ethereum L2 built for experiments and tests.</h3>
+  <h3><a href="https://optimism.io">Spark</a> is an Ethereum L2 built for experiments and tests.</h3>
   <br />
 </div>
 
